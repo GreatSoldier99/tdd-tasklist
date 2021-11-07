@@ -9,7 +9,7 @@ import java.time.Month;
 
 import org.junit.jupiter.api.Test;
 
-public class TaksListTest {
+public class TaskListTest {
 
     @Test
     public void givenANewTasksList_whenCreated_thenListIsEmpty() {
